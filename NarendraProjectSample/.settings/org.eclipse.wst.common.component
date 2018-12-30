@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="NarendraProjectSample">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="NarendraProjectSample"/>
+        <property name="java-output-path" value="/NarendraProjectSample/build/classes"/>
+    </wb-module>
+</project-modules>
